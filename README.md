@@ -8,5 +8,6 @@
 
 ### [php 입문 서적 선택 및 chapter1,2장 공부](https://github.com/yujiah-github/learning-php/tree/main/210919%20Set%20Develop%20Settings%20and%20Learn%20Chapter2/chapter2)
 - 처음에는 유튜브 강좌 **'생활 코딩'** 을 보며 진도를 나가려고 했으나, 유튜브 강의는 참고 자료로 사용하는 것이 더 좋을 것 같아 php 입문 서적을 구입하였습니다.
+> ##### [참고 서적 링크](https://book.naver.com/bookdb/book_detail.nhn?bid=14931674)
 - 책의 내용을 따라 **'XAMPP'** 와 **'Sublime Text'** 를 설치하였습니다.
 - 책의 내용의 따라 클론 코딩을 하고, 필기한 것을 업로드 하였습니다.
