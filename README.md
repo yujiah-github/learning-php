@@ -1,5 +1,5 @@
 ## 공부 내용을 챕터별로 기록하였습니다.
-### [PHP 개발을 위한 개발 도구 설정 및 환경 설정](https://github.com/yujiah-github/learning-php/tree/main/210917%20Start%20Learning%20PHP)
+### [PHP 개발을 위한 개발 도구 설치 및 환경 설정](https://github.com/yujiah-github/learning-php/tree/main/210917%20Start%20Learning%20PHP)
 - PHP 개발을 위해 여러 개발 도구들을 찾아보고, 프레임워크를 조사하였습니다.
 - 아직 초급자이므로, 유료 IDE보다 무료로 사용할 수 있는 IDE 위주로 검색하였습니다.
 - 그 결과 **'Visual Stuido Code'** 를 설치하고, PHP와 관련한 플러그인을 마쳤습니다.
