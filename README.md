@@ -15,5 +15,5 @@
 - 책의 내용의 따라 클론 코딩을 하고, 필기한 것을 업로드 하였습니다.
 <br>
 
-### [php 입문 서적 선택 및 chapter1,2장 공부](https://github.com/yujiah-github/learning-php/tree/main/210919%20Set%20Develop%20Settings%20and%20Learn%20Chapter2/chapter3)
+### [php 입문 서적 선택 및 chapter3장 공부](https://github.com/yujiah-github/learning-php/tree/main/210919%20Set%20Develop%20Settings%20and%20Learn%20Chapter2/chapter3)
 - 책의 내용을 따라 클론 코딩을 하고, 필기한 것을 업로드 하였습니다.
