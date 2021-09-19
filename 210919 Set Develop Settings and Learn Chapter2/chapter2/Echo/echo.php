@@ -14,7 +14,7 @@ $filename = "cat.jpg";
 echo "<img src = '$filename' >";
 echo "<Br>";
 
-$filename = "rabit.jpg";
+$filename = "rabbit.jpg";
 echo "<img src = '$filename'>";
 ?>
 </body>
