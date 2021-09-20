@@ -6,7 +6,7 @@
 - 환경 설정을 마무리하고 테스트용으로 소스 파일을 몇 개 코딩해보았습니다.
 <Br>
 
-### [PHP 입문 서적 선택 및 Chapter 1,2장 공부](https://github.com/yujiah-github/learning-php/tree/main/210919%20Set%20Develop%20Settings%20and%20Learn%20Chapter2/chapter2)
+### [PHP 입문 서적 선택 및 Chapter 1,2장 공부](https://github.com/yujiah-github/learning-php/tree/main/210919%20Set%20Develop%20Settings%20and%20Learn%20Chapter2-4/chapter2)
 - 처음에는 유튜브 강좌 **'생활 코딩'** 을 보며 진도를 나가려고 했으나, 유튜브 강의는 참고 자료로 사용하는 것이 더 좋을 것 같아 PHP 입문 서적을 구입하였습니다.
 > ##### [참고 서적 링크](https://book.naver.com/bookdb/book_detail.nhn?bid=14931674) 
 ![](https://images.velog.io/images/cil05265/post/bd8d2710-ef5b-4621-bbbf-f429810159da/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA%202021-09-19%20%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE%204.38.13.png)
@@ -24,7 +24,7 @@
 
 <br>
 
-### [Chapter 3장 공부](https://github.com/yujiah-github/learning-php/tree/main/210919%20Set%20Develop%20Settings%20and%20Learn%20Chapter2/chapter3)
+### [Chapter 3장 공부](https://github.com/yujiah-github/learning-php/tree/main/210919%20Set%20Develop%20Settings%20and%20Learn%20Chapter2-4/chapter3)
 - 책의 내용을 따라 클론 코딩을 하고, 필기한 것을 업로드 하였습니다.
 - **조건문, if문, swith문** 등에 대해 공부하였습니다. 
 
@@ -39,7 +39,7 @@
 
 <Br>
 
-### [Chapter 4장 공부](https://github.com/yujiah-github/learning-php/tree/main/210919%20Set%20Develop%20Settings%20and%20Learn%20Chapter2/chapter4)
+### [Chapter 4장 공부](https://github.com/yujiah-github/learning-php/tree/main/210919%20Set%20Develop%20Settings%20and%20Learn%20Chapter2-4/chapter4)
 - 책의 내용을 따라 클론 코딩을 하고, 필기한 것을 업로드 하였습니다.
 - **while문, for문, dowhile문, 이중 For문** 등에 대해 공부하였습니다.
 
