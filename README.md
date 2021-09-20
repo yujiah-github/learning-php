@@ -50,3 +50,13 @@
 <br>
 
 > ##### -구현 화면 <br> ![](https://images.velog.io/images/cil05265/post/5b71b5f7-c326-47d3-9e30-530f7e903ae4/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA%202021-09-20%20%E1%84%8B%E1%85%A9%E1%84%8C%E1%85%A5%E1%86%AB%201.07.32.png)
+
+
+### [Chapter 5장 공부](https://github.com/yujiah-github/learning-php/tree/main/210920%20Learning%20Chapter%205/chapter5)
+- 책의 내용을 따라 클론 코딩을 하고, 필기한 것을 업로드 하였습니다.
+- **배열, 2차원 배열** 등에 대해 공부하였습니다.
+
+
+
+
+
