@@ -6,6 +6,29 @@
 - 환경 설정을 마무리하고 테스트용으로 소스 파일을 몇 개 코딩해보았습니다.
 <Br>
 
+### 목차
+| 공부 내용 | 완료 여부 | 
+|----|----|
+| Chapter1 | ✅    | 
+| Chapter2 |   ✅   |
+| Chapter3 |   ✅   |
+| Chapter4 |  ✅    |
+| Chapter5 |  ✅    |
+| Chapter6 | ✅    | 
+| Chapter7 |  ✅    |
+| Chapter8 |     |
+| Chapter9 |     |
+| Chapter10 |     |
+| Chapter11 |     | 
+| Chapter12 |     |
+| Chapter13 |     |
+| Chapter14 |     |
+| Chapter15 |     |
+
+
+<br>
+
+
 ### [PHP 입문 서적 선택 및 Chapter 1,2장 공부](https://github.com/yujiah-github/learning-php/tree/main/210919%20Set%20Develop%20Settings%20and%20Learn%20Chapter2-4/chapter2)
 - 처음에는 유튜브 강좌 **'생활 코딩'** 을 보며 진도를 나가려고 했으나, 유튜브 강의는 참고 자료로 사용하는 것이 더 좋을 것 같아 PHP 입문 서적을 구입하였습니다.
 > ##### [참고 서적 링크](https://book.naver.com/bookdb/book_detail.nhn?bid=14931674) 
