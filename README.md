@@ -11,7 +11,7 @@
 | Chapter5 |  ✅    |
 | Chapter6 | ✅    | 
 | Chapter7 |  ✅    |
-| Chapter8 |     |
+| Chapter8 |  ✅    |
 | Chapter9 |     |
 | Chapter10 |     |
 | Chapter11 |     | 
@@ -144,3 +144,12 @@
 ### [Chapter 8장 공부](https://github.com/yujiah-github/learning-php/tree/main/210921%20Learning%20Chapter%207%20and%208/chapter8)
 - 책의 내용을 따라 클론 코딩을 하고, 필기한 것을 업로드 하였습니다.
 - **쿠키, 세션** 등에 대해 공부하였습니다.
+
+
+<br>
+
+> ##### 8장 소스 파일 구현 이미지 예시 - 코드 <Br> ![](https://images.velog.io/images/cil05265/post/98edfb16-1c61-4acf-b70a-2ef1749a1283/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA%202021-09-23%20%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE%209.04.52.png)
+
+<br>
+
+> ##### -구현 화면 <br> ![](https://images.velog.io/images/cil05265/post/0f6e746f-aefd-4195-9f6d-c9fdbfaf2fc7/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA%202021-09-23%20%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE%209.05.42.png)
