@@ -4,14 +4,14 @@
 | 공부 내용 | 완료 여부 | 
 |----|----|
 | [개발 도구 설치 및 환경 설정](#php-개발을-위한-개발-도구-설치-및-환경-설정) |  ✅   |
-| Chapter1 | ✅    | 
-| Chapter2 |   ✅   |
-| Chapter3 |   ✅   |
-| Chapter4 |  ✅    |
-| Chapter5 |  ✅    |
-| Chapter6 | ✅    | 
-| Chapter7 |  ✅    |
-| Chapter8 |  ✅    |
+| [Chapter1](#php-입문-서적-선택-및-chapter-1,2장-공부) | ✅    | 
+| [Chapter2](#php-입문-서적-선택-및-chapter-1,2장-공부)  |   ✅   |
+| [Chapter3](#chapter-3장-공부) |   ✅   |
+| [Chapter4](#chapter-4장-공부)  |  ✅    |
+| [Chapter5](#chapter-5장-공부)  |  ✅    |
+| [Chapter6](#chapter-6장-공부) | ✅    | 
+| [Chapter7](#chapter-7장-공부)  |  ✅    |
+| [Chapter8](#chapter-8장-공부)  |  ✅    |
 | Chapter9 |     |
 | Chapter10 |     |
 | Chapter11 |     | 
