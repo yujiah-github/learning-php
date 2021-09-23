@@ -12,7 +12,7 @@
 | [Chapter6](#chapter-6장-공부) | ✅    | 
 | [Chapter7](#chapter-7장-공부)  |  ✅    |
 | [Chapter8](#chapter-8장-공부)  |  ✅    |
-| Chapter9 |     |
+| [Chapter9](#chapter-9장-공부) ) |     |
 | Chapter10 |     |
 | Chapter11 |     | 
 | Chapter12 |     |
@@ -166,12 +166,12 @@
 <br>
 
 > ##### 9장 DB와 PHP 연결 - 예시 화면 1<Br> ![](https://images.velog.io/images/cil05265/post/5defaac0-e935-4b2d-9384-8e5510aa4013/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA%202021-09-23%20%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE%2010.30.47.png)
-- XAMPP Manage Servers에서 MySQL 서버를 켜고 끌 수 있습니다.
+-* *XAMPP의 Manage Servers**에서 **MySQL 서버**를 켜고 끌 수 있습니다. ***(이 책에서는 MySQL과 MariaDB를 혼용합니다.)***
 
 <br>
 
 > ##### - 예시 화면 2 <br> ![](https://images.velog.io/images/cil05265/post/b7e5259e-010e-4334-bdf3-a30f55a0b520/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA%202021-09-23%20%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE%2010.31.25.png)
-- XAMPP를 설치할 떄 함께 설치된 phpMyAdmin 프로그램을 사용하여 데이터베이스를 생성하고 관리할 수 있습니다.
+- XAMPP를 설치할 떄 함께 설치된 **phpMyAdmin 프로그램**을 사용하여 데이터베이스를 생성하고 관리할 수 있습니다.
 
 
 
