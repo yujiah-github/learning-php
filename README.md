@@ -113,7 +113,7 @@
 
 ---
 
-### [Chapter 7장 공부](https://github.com/yujiah-github/learning-php/tree/main/210921%20Learning%20Chapter%207%20and%208/chapter7)
+### [Chapter 7장 공부](https://github.com/yujiah-github/learning-php/tree/main/210921%20Learning%20Chapter7/chapter7)
 - 책의 내용을 따라 클론 코딩을 하고, 필기한 것을 업로드 하였습니다.
 - **HTTP 개념, POST 방식, GET 방식** 등에 대해 공부하였습니다.
 
