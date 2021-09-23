@@ -141,7 +141,7 @@
 
 
 
-### [Chapter 8장 공부](https://github.com/yujiah-github/learning-php/tree/main/210921%20Learning%20Chapter%207%20and%208/chapter8)
+### [Chapter 8장 공부](https://github.com/yujiah-github/learning-php/tree/main/210923%20Learning%20Chapter%208%20and%20Chapter%209/chapter8)
 - 책의 내용을 따라 클론 코딩을 하고, 필기한 것을 업로드 하였습니다.
 - **쿠키, 세션** 등에 대해 공부하였습니다.
 
@@ -158,7 +158,7 @@
 
 
 
-### [Chapter 9장 공부](https://github.com/yujiah-github/learning-php/tree/main/210921%20Learning%20Chapter%207%20and%208/chapter8)
+### [Chapter 9장 공부](https://github.com/yujiah-github/learning-php/tree/main/210923%20Learning%20Chapter%208%20and%20Chapter%209/chapter9)
 - 책의 내용을 따라 클론 코딩을 하고, 필기한 것을 업로드 하였습니다.
 - **데이터베이스, MySQL 서버와 phpMyamin, 데이터베이스 생성, 데이터베이스 테이블 관리** 등에 대해 공부하였습니다.
 
