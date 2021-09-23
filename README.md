@@ -153,3 +153,26 @@
 <br>
 
 > ##### -구현 화면 <br> ![](https://images.velog.io/images/cil05265/post/0f6e746f-aefd-4195-9f6d-c9fdbfaf2fc7/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA%202021-09-23%20%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE%209.05.42.png)
+
+--- 
+
+
+
+### [Chapter 9장 공부](https://github.com/yujiah-github/learning-php/tree/main/210921%20Learning%20Chapter%207%20and%208/chapter8)
+- 책의 내용을 따라 클론 코딩을 하고, 필기한 것을 업로드 하였습니다.
+- **데이터베이스, MySQL 서버와 phpMyamin, 데이터베이스 생성, 데이터베이스 테이블 관리** 등에 대해 공부하였습니다.
+
+
+<br>
+
+> ##### 9장 DB와 PHP 연결 - 예시 화면 1<Br> ![](https://images.velog.io/images/cil05265/post/5defaac0-e935-4b2d-9384-8e5510aa4013/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA%202021-09-23%20%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE%2010.30.47.png)
+- XAMPP Manage Servers에서 MySQL 서버를 켜고 끌 수 있습니다.
+
+<br>
+
+> ##### - 예시 화면 2 <br> ![](https://images.velog.io/images/cil05265/post/b7e5259e-010e-4334-bdf3-a30f55a0b520/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA%202021-09-23%20%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE%2010.31.25.png)
+- XAMPP를 설치할 떄 함께 설치된 phpMyAdmin 프로그램을 사용하여 데이터베이스를 생성하고 관리할 수 있습니다.
+
+
+
+
