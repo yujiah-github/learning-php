@@ -1,1 +1,0 @@
-### MySQL(MariaDB)와 PHP를 연결함. 
