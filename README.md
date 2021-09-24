@@ -173,6 +173,20 @@
 > ##### - 예시 화면 2 <br> ![](https://images.velog.io/images/cil05265/post/b7e5259e-010e-4334-bdf3-a30f55a0b520/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA%202021-09-23%20%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE%2010.31.25.png)
 - XAMPP를 설치할 떄 함께 설치된 **phpMyAdmin 프로그램**을 사용하여 데이터베이스를 생성하고 관리할 수 있습니다.
 
+--- 
 
+### [Chapter 10장 공부](https://github.com/yujiah-github/learning-php/tree/main/210920%20Learning%20Chapter%205%20and%20Chpater%206/chpater6)
+- 책의 내용을 따라 클론 코딩을 하고, 필기한 것을 업로드 하였습니다.
+- **DB 불러오기, 삽입, 검색, 관리, 생성** 등에 대해 공부하였습니다.
+
+<br>
+
+> ##### 10장 MySQL 조작- 예시 화면1 <Br> ![](https://images.velog.io/images/cil05265/post/6b612d92-7282-48a1-ab36-437aac2e44a0/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA%202021-09-20%20%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE%206.22.56.png)
+
+<br>
+
+> ##### -예시 화면2 <br> ![](https://images.velog.io/images/cil05265/post/c4ebef5a-ca54-4c97-8667-6035136fdc5b/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA%202021-09-20%20%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE%206.23.20.png)
+
+---
 
 
