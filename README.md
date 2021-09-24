@@ -175,7 +175,7 @@
 
 --- 
 
-### [Chapter 10장 공부](https://github.com/yujiah-github/learning-php/tree/main/210920%20Learning%20Chapter%205%20and%20Chpater%206/chpater6)
+### [Chapter 10장 공부](https://github.com/yujiah-github/learning-php/tree/main/210924%20Learning%20Chapter%2010/chapter%2010)
 - 책의 내용을 따라 클론 코딩을 하고, 필기한 것을 업로드 하였습니다.
 - **DB 불러오기, 삽입, 검색, 관리, 생성** 등에 대해 공부하였습니다.
 
