@@ -13,7 +13,7 @@
 | [Chapter7](#chapter-7장-공부)  |  ✅    |
 | [Chapter8](#chapter-8장-공부)  |  ✅    |
 | [Chapter9](#chapter-9장-공부) |   ✅   |
-| Chapter10 |     |
+| [Chapter10](#chapter-10장-공부) |  ✅   |
 | Chapter11 |     | 
 | Chapter12 |     |
 | Chapter13 |     |
