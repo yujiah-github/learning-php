@@ -14,7 +14,7 @@
 | [Chapter8](#chapter-8장-공부)  |  ✅    |
 | [Chapter9](#chapter-9장-공부) |   ✅   |
 | [Chapter10](#chapter-10장-공부) |  ✅   |
-| Chapter11 |     | 
+| [Chapter11](#chapter-11장-공부) |  ✅     | 
 | Chapter12 |     |
 | Chapter13 |     |
 | Chapter14 |     |
@@ -192,6 +192,12 @@
 > ##### -예시 화면3 <br> ![](https://images.velog.io/images/cil05265/post/85531f73-2057-4a47-b6cd-f8d46058ab22/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA%202021-09-24%20%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE%203.23.48.png)
 
 ---
+
+### [Chapter 11장 공부](https://github.com/yujiah-github/learning-php/tree/main/210925%20Learning%20Chapter%2011/chapter11)
+- 책의 내용을 따라 클론 코딩을 하고, 필기한 것을 업로드 하였습니다.
+- **실습 사이트 소개, 회원 가입 페이지 제작, 아이디 중복 확인** 등에 대해 공부하였습니다.
+
+<br>
 
 > ##### 11장 실습 사이트와 회원 가입 기능 구현 -예시 화면1 <Br> ![](https://images.velog.io/images/cil05265/post/8ae0a5b3-1a2f-4620-9c9c-7eb2b68c3539/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA%202021-09-25%20%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE%208.46.36.png)
 
