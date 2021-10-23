@@ -17,7 +17,7 @@
 | [Chapter11](#chapter-11장-공부) |  ✅     |
 | Chapter12 |   ✅    |
 | Chapter13 |   ✅    |
-| Chapter14 |     |
+| Chapter14 |   ✅   |
 | Chapter15 |     |
 
 ---
