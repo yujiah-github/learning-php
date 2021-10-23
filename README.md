@@ -1,22 +1,22 @@
 ## 공부 내용을 챕터별로 기록하였습니다.
 
 ### 목차
-| 공부 내용 | 완료 여부 | 
+| 공부 내용 | 완료 여부 |
 |----|----|
 | [개발 도구 설치 및 환경 설정](#php-개발을-위한-개발-도구-설치-및-환경-설정) |  ✅   |
-| [Chapter1](#php-입문-서적-선택-및-chapter-1,2장-공부) | ✅    | 
+| [Chapter1](#php-입문-서적-선택-및-chapter-1,2장-공부) | ✅    |
 | [Chapter2](#php-입문-서적-선택-및-chapter-1,2장-공부)  |   ✅   |
 | [Chapter3](#chapter-3장-공부) |   ✅   |
 | [Chapter4](#chapter-4장-공부)  |  ✅    |
 | [Chapter5](#chapter-5장-공부)  |  ✅    |
-| [Chapter6](#chapter-6장-공부) | ✅    | 
+| [Chapter6](#chapter-6장-공부) | ✅    |
 | [Chapter7](#chapter-7장-공부)  |  ✅    |
 | [Chapter8](#chapter-8장-공부)  |  ✅    |
 | [Chapter9](#chapter-9장-공부) |   ✅   |
 | [Chapter10](#chapter-10장-공부) |  ✅   |
-| [Chapter11](#chapter-11장-공부) |  ✅     | 
-| Chapter12 |     |
-| Chapter13 |     |
+| [Chapter11](#chapter-11장-공부) |  ✅     |
+| Chapter12 |   ✅    |
+| Chapter13 |   ✅    |
 | Chapter14 |     |
 | Chapter15 |     |
 
@@ -33,7 +33,7 @@
 
 ### [PHP 입문 서적 선택 및 Chapter 1,2장 공부](https://github.com/yujiah-github/learning-php/tree/main/210919%20Set%20Develop%20Settings%20and%20Learn%20Chapter2-4/chapter2)
 - 처음에는 유튜브 강좌 **'생활 코딩'** 을 보며 진도를 나가려고 했으나, 유튜브 강의는 참고 자료로 사용하는 것이 더 좋을 것 같아 PHP 입문 서적을 구입하였습니다.
-> ##### [참고 서적 링크](https://book.naver.com/bookdb/book_detail.nhn?bid=14931674) 
+> ##### [참고 서적 링크](https://book.naver.com/bookdb/book_detail.nhn?bid=14931674)
 ![](https://images.velog.io/images/cil05265/post/bd8d2710-ef5b-4621-bbbf-f429810159da/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA%202021-09-19%20%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE%204.38.13.png)
 
 - 책의 내용을 따라 **'XAMPP'** 와 **'Sublime Text'** 를 설치하였습니다.
@@ -54,7 +54,7 @@
 
 ### [Chapter 3장 공부](https://github.com/yujiah-github/learning-php/tree/main/210919%20Set%20Develop%20Settings%20and%20Learn%20Chapter2-4/chapter3)
 - 책의 내용을 따라 클론 코딩을 하고, 필기한 것을 업로드 하였습니다.
-- **조건문, if문, swith문** 등에 대해 공부하였습니다. 
+- **조건문, if문, swith문** 등에 대해 공부하였습니다.
 
 
 <br>
@@ -97,7 +97,7 @@
 > ##### -구현 화면 <br> ![](https://images.velog.io/images/cil05265/post/7a53ec42-4e9d-4b5e-8f99-f4dd89c2e31f/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA%202021-09-20%20%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE%205.19.37.png)
 
 
---- 
+---
 
 ### [Chapter 6장 공부](https://github.com/yujiah-github/learning-php/tree/main/210920%20Learning%20Chapter%205%20and%20Chpater%206/chpater6)
 - 책의 내용을 따라 클론 코딩을 하고, 필기한 것을 업로드 하였습니다.
@@ -137,7 +137,7 @@
 <br>
 
 
---- 
+---
 
 
 
@@ -154,7 +154,7 @@
 
 > ##### -구현 화면 <br> ![](https://images.velog.io/images/cil05265/post/0f6e746f-aefd-4195-9f6d-c9fdbfaf2fc7/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA%202021-09-23%20%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE%209.05.42.png)
 
---- 
+---
 
 
 
@@ -173,7 +173,7 @@
 > ##### - 예시 화면 2 <br> ![](https://images.velog.io/images/cil05265/post/b7e5259e-010e-4334-bdf3-a30f55a0b520/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA%202021-09-23%20%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE%2010.31.25.png)
 - XAMPP를 설치할 떄 함께 설치된 **phpMyAdmin 프로그램**을 사용하여 데이터베이스를 생성하고 관리할 수 있습니다.
 
---- 
+---
 
 ### [Chapter 10장 공부](https://github.com/yujiah-github/learning-php/tree/main/210924%20Learning%20Chapter%2010/chapter%2010)
 - 책의 내용을 따라 클론 코딩을 하고, 필기한 것을 업로드 하였습니다.
